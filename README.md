@@ -17,7 +17,7 @@
 
 ## 💻 Project
 
-<p>In this challenge, you must continue to develop the transaction management application, GoFinances. Now you will practice what you have learned so far in React.js along with TypeScript, using routes and sending files by form.</p>
+<p>Interface de usuário do projeto GoBarber que está sendo desenvolvido durante o BootCamp da Rocketseat usando tecnologias modernas como Typescript e React</p>
 
 <p align="center">
     <img alt="Logon" title="Logon" src="src/assets/int1.png" width="800px" />
@@ -51,12 +51,10 @@ $ git clone https://github.com/ApoOliveira18/Projeto-GoBarber.git
 $ cd Projeto-GoBarber/
 
 # Install dependencies for directories
+#yarn
 
-# Run Migrates
-$ yarn typeorm migrate:run
-
-# Run tests
-$ yarn test
+# Run aplication
+$ yarn start
 ```
 
 ## 🤔 How to contribute
