@@ -20,11 +20,11 @@
 <p>In this challenge, you must continue to develop the transaction management application, GoFinances. Now you will practice what you have learned so far in React.js along with TypeScript, using routes and sending files by form.</p>
 
 <p align="center">
-    <img alt="Login-Page" title="Login-Page" src="src/assets/int1.png" width="600px" />
+    <img alt="Cadastro" title="Cadastro" src="src/assets/int1.png" width="800px" />
 </p>
 
 <p align="center">
-    <img alt="Login-Page" title="Login-Page" src="src/assets/int2.png" width="600px" />
+    <img alt="Login" title="Login" src="src/assets/int2.png" width="800px" />
  </p>
 
 
