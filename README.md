@@ -33,14 +33,13 @@
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
+- [React](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
-- [Node.js](https://nodejs.org/en/) 
-- [Docker](https://hub.docker.com/_/postgres)
-- [Typeorm](https://typeorm.io/#/)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [React][nodejs] + [Yarn][yarn] installed on your computer.
 
 From your command line:
 
@@ -79,6 +78,8 @@ Feito com ♥ && 🎧 && 😊 || 😥
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
 [nodejs]: https://nodejs.org/
+[react]: https://pt-br.reactjs.org/
+[typescript]: https://www.typescriptlang.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
