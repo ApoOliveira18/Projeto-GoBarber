@@ -27,9 +27,6 @@
     <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="800px" />
  </p>
 
-
-
-
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
@@ -83,6 +80,3 @@ Feito com ♥ && 🎧 && 😊 || 😥
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-
-
