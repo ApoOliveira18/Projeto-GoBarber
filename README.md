@@ -26,6 +26,12 @@
 <p align="center">
     <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="800px" />
  </p>
+ 
+ <p align="center">
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int4.png" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int5.png" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int6.png" width="260px" />
+ </p>
 
 ## :rocket: Technologies
 
