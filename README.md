@@ -55,6 +55,7 @@ $ cd Projeto-GoBarber/
 
 # Install dependencies for directories
 #yarn
+$yarn
 
 # Run aplication
 $ yarn start
