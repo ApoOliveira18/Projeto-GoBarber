@@ -33,9 +33,9 @@
   <img alt="Logon" title="Logon" src="src/assets/int7.png" width="400px" />
   <img alt="Cadastro" title="Cadastro" src="src/assets/int8.png" width="400px" />
   <img alt="Logon" title="Logon" src="src/assets/int8a.png" width="400px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int8b.png" width="400px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int8c.png" width="400px" />
   <img alt="Cadastro" title="Cadastro" src="src/assets/int9.png" width="400px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int8b.png" width="400px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int8c.png" width="400px" />  
   <img alt="Cadastro" title="Cadastro" src="src/assets/int10.png" width="400px" />
  </p>
 
