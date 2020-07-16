@@ -17,7 +17,7 @@
 
 ## 💻 Project
 
-<p>Interface de usuário do projeto GoBarber desenvolvido durante o BootCamp da Rocketseat usando tecnologias modernas como Typescript e React. A aplicação web foi feita para que o barbeiro possa visualizar e administrar sua agenda, enquanto o cliente faz o agendamento utilizando o App Gobarber. Conheça o App, clicando neste link &nbsp;&nbsp;&nbsp;<a href="#-project">Project</a></p>
+<p>Interface de usuário do projeto GoBarber desenvolvido durante o BootCamp da Rocketseat usando tecnologias modernas como Typescript e React. A aplicação web foi feita para que o barbeiro possa visualizar e administrar sua agenda, enquanto o cliente faz o agendamento utilizando o App Gobarber. Conheça o App, clicando neste link &nbsp;&nbsp;&nbsp;<a href="https://github.com/ApoOliveira18/app-Gobarber">App GoBarber</a></p>
 <p align="center">
     <img alt="Logon" title="Logon" src="src/assets/int1.png" width="400px" />
     <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="400px" />
