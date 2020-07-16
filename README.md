@@ -17,7 +17,7 @@
 
 ## 💻 Project
 
-<p>Aplicativo web GoBarber, desenvolvido usando tecnologias modernas como Typescript e React. A aplicação web foi feita para que o barbeiro possa visualizar e administrar sua agenda, além de atualizar seu avatar e dados do seu perfil. Já o cliente da barbearia, faz o agendamento utilizando o App Gobarber desenvolvido para as plataformas Android e IOS. Conheça a codificação do App, clicando neste link &nbsp;&nbsp;<a href="https://github.com/ApoOliveira18/app-Gobarber">App GoBarber</a></p>
+<p>Aplicativo web GoBarber, desenvolvido usando tecnologias modernas como Typescript,React e outras tecnologias modernas. A aplicação web foi feita para que o barbeiro possa visualizar e administrar sua agenda, além de atualizar seu avatar e dados do seu perfil. Já o cliente da barbearia, faz o agendamento utilizando o App Gobarber desenvolvido para as plataformas Android e IOS. Conheça a codificação do App, clicando neste link &nbsp;&nbsp;<a href="https://github.com/ApoOliveira18/app-Gobarber">App GoBarber</a></p>
 <p align="center">
     <img alt="Logon" title="Logon" src="src/assets/int1.png" width="400px" />
     <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="400px" />
