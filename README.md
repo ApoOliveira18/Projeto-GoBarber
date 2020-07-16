@@ -18,6 +18,16 @@
 ## 💻 Project
 
 <p>Interface de usuário do projeto GoBarber que está sendo desenvolvido durante o BootCamp da Rocketseat usando tecnologias modernas como Typescript e React</p>
+<p align="center">
+    <img alt="Logon" title="Logon" src="src/assets/int1.png" width="400px" />
+    <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="400px" />
+ </p>
+ 
+ <p align="center">
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int4.png" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int5.png" width="260px" />
+  <img alt="Cadastro" title="Cadastro" src="src/assets/int6.png" width="260px" />
+ </p>
 
 <p align="center">
   <img alt="Logon" title="Logon" src="src/assets/int7.png" width="400px" />
@@ -29,16 +39,7 @@
   <img alt="Cadastro" title="Cadastro" src="src/assets/int10.png" width="400px" />
  </p>
 
-<p align="center">
-    <img alt="Logon" title="Logon" src="src/assets/int1.png" width="400px" />
-    <img alt="Cadastro" title="Cadastro" src="src/assets/int2.png" width="400px" />
- </p>
- 
- <p align="center">
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int4.png" width="260px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int5.png" width="260px" />
-  <img alt="Cadastro" title="Cadastro" src="src/assets/int6.png" width="260px" />
- </p>
+
 
 ## :rocket: Technologies
 
